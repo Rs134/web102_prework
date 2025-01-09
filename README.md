@@ -35,7 +35,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-- One of the challenges that I faced during this app construction was understanding the built-in functions that Javascript offers and integrating it with the app. I had to reread and understand each method in various examples gain a better insight on how to implement it in the app. 
+- One of the challenges that I faced during this app construction was understanding the built-in functions that Javascript offers and integrating it with the app. I had to reread and understand each method in various examples to gain a better insight on how to implement it in the app. 
 
 ## License
 
